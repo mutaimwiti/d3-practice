@@ -1,3 +1,8 @@
 rect {
   fill: #9713dd;
 }
+
+svg {
+  display: block;
+  margin: auto;
+}
